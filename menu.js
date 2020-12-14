@@ -1,5 +1,5 @@
 exports.menu = (id, BotName, corohelp, tampilTanggal, tampilWaktu, instagram, telegram, youtube, kapanbotaktif, grupch1, grupch2) => {
-	return `🤖*${BotName}*🤖
+	return `🤖*${TADAKI-BOT}*🤖
   
 HALO *${id.split("@s.whatsapp.net")[0]}* 
 SELAMAT DATANG DI MENU TADAKI-BOT🤖
