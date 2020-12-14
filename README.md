@@ -16,7 +16,7 @@ BOT WHATSAPP YANG BISA DIGUNAKAN DI TERMUX
 > pkg install ffmpeg
 > pkg install nodejs
 > apt update && apt upgrade
-> git clone https://github.com/benisadewa/tadakibot
+> git clone https://github.com/gamerzwibu/tadakibot
 > cd Tadaki-bot
 > npm i -g cwebp && npm i -g ytdl
 > npm i && npm i got
